@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GinaWeatherApp</string>
+    <string name="error_message">
+        An error has occurred. Are you sure you entered a valid ZIP Code (e.g., 94582)? Please try again.
+    </string>
+    <string name="zip_label">ZIP</string>
+    <string name="instruction_message">
+        Enter ZIP Code to get the 5 day weather forecast.
+    </string>
+    <string name="zipcode_input_hint">Enter ZIP Code (e.g., 94582)</string>
+    <string name="search_button_label">Search</string>
+</resources>
